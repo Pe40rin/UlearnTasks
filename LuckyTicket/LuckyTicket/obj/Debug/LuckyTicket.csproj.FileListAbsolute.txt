@@ -1,0 +1,8 @@
+D:\ReposGit\Ulearn\UlearnTasks\LuckyTicket\LuckyTicket\bin\Debug\LuckyTicket.exe.config
+D:\ReposGit\Ulearn\UlearnTasks\LuckyTicket\LuckyTicket\bin\Debug\LuckyTicket.exe
+D:\ReposGit\Ulearn\UlearnTasks\LuckyTicket\LuckyTicket\bin\Debug\LuckyTicket.pdb
+D:\ReposGit\Ulearn\UlearnTasks\LuckyTicket\LuckyTicket\obj\Debug\LuckyTicket.csproj.AssemblyReference.cache
+D:\ReposGit\Ulearn\UlearnTasks\LuckyTicket\LuckyTicket\obj\Debug\LuckyTicket.csproj.SuggestedBindingRedirects.cache
+D:\ReposGit\Ulearn\UlearnTasks\LuckyTicket\LuckyTicket\obj\Debug\LuckyTicket.csproj.CoreCompileInputs.cache
+D:\ReposGit\Ulearn\UlearnTasks\LuckyTicket\LuckyTicket\obj\Debug\LuckyTicket.exe
+D:\ReposGit\Ulearn\UlearnTasks\LuckyTicket\LuckyTicket\obj\Debug\LuckyTicket.pdb
